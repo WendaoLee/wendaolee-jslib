@@ -1,0 +1,4 @@
+/node_modules
+./lib/.git
+./lib/test.js
+./lib/package.json

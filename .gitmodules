@@ -1,0 +1,3 @@
+[submodule "ref"]
+	path = ./lib/ref
+	url = https://github.com/WendaoLee/ref.js.git
