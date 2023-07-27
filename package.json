@@ -1,6 +1,6 @@
 {
   "name": "wendaolee-jslib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Personal javascript lib.",
   "main": "index.js",
   "type": "module",
